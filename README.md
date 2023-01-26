@@ -6,6 +6,9 @@ This module can be used to recieve the feedback the user submits via the normal 
 - Download the images
 - Works with old and newer feedback widgets.
 
+## Dependencies
+- CommunityCommons Module
+
 ## Usage
 - Set the correct security settings for the module
 - Add SNIP_FeedbackOverview to a page
